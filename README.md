@@ -96,3 +96,4 @@ Build a login form to authenticate your users.
 - [ ] Play around with the data visualization happening in `Bubbles.js`. Have fun with this! Try different components from the library, or see if you can add props to change the UI a bit.
 change
 change again
+all the changes
